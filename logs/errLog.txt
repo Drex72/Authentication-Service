@@ -1,0 +1,20 @@
+20230304	22:04:51	223c8850-9d61-43bd-821f-700b96624eaf	Error: Not allowed by cors
+20230304	22:04:51	debe889f-dbd1-4ac5-a16a-e71fc90c6176	Error: Not allowed by cors
+20230304	22:04:56	0d4e21af-5f1c-4111-a079-8638c551e188	Error: Not allowed by cors
+20230304	22:04:56	95c58955-623a-48f3-8577-31928c689dde	Error: Not allowed by cors
+20230304	22:07:37	cfd110f6-cb6a-4ff2-9a05-6886116cc0f2	ReferenceError: logEvent is not defined
+20230304	22:07:37	7f1f94c7-cf38-4b74-b878-6b12e307c7c0	ReferenceError: logEvent is not defined
+20230304	22:07:37	55d414e2-aa86-4f9b-91f7-23248bfb33f9	ReferenceError: logEvent is not defined
+20230304	22:51:18	b466f442-8723-4b30-82b5-26c72d6135b8	ForbiddenError: Forbidden
+20230304	22:52:11	215d2ee7-cdff-46ac-b7b2-c3a9c202c3fa	ForbiddenError: Forbidden
+20230304	22:53:33	72bab1cf-aa6c-47fc-aff5-91f52096a41a	TypeError: path must be absolute or specify root to res.sendFile
+20230308	10:08:14	bbee8ec2-1996-4779-a535-6792a9e0686d	ForbiddenError: Forbidden
+20230308	10:08:52	ed0db6e3-82fd-4294-b594-0cb60997586f	Error: ENOENT: no such file or directory, stat '/Users/drex/Desktop/NodeProjects/DaveGrayNodeCourse/nodejs_web_server/views/root.html'
+20230308	10:08:53	3c10246e-8456-4d23-aefd-81e2c7167d53	Error: ENOENT: no such file or directory, stat '/Users/drex/Desktop/NodeProjects/DaveGrayNodeCourse/nodejs_web_server/views/root.html'
+20230308	10:09:01	c940420c-f1e5-4285-934f-53ee5ded133d	Error: ENOENT: no such file or directory, stat '/Users/drex/Desktop/NodeProjects/DaveGrayNodeCourse/nodejs_web_server/views/root.html'
+20230308	21:40:15	0a3c6938-38f9-4fa3-9f1f-66b571deef41	TypeError: data.employees is not a function
+20230308	21:40:45	ca615d17-9366-49f6-a38e-c38057feeb52	TypeError: data.employees is not a function
+20230308	21:43:38	98964fa1-e538-4ba7-b5cb-af2630c6b257	ReferenceError: tempData is not defined
+20230308	21:45:44	8a791024-11aa-467b-a80b-1fc9e83fc91a	TypeError: data.employees is not a function
+20230308	21:46:04	86b6b3c7-e949-43a6-9f3f-4552ceb82621	Error: Cannot set headers after they are sent to the client
+20230308	21:46:09	5d31c746-a8a7-4459-89cf-8728c63e1bd3	Error: Cannot set headers after they are sent to the client
